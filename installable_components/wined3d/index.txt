@@ -1,4 +1,6 @@
 wined3d-3.6.tzst
 wined3d-4.21.tzst
 wined3d-7.8.tzst
+wined3d-8.0-3.tzst
+wined3d-9.0-1.tzst
 wined3d-10.0.tzst
